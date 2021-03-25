@@ -1,0 +1,20 @@
+/*
+Javascript é uma linguagem fracamente tipada, ou tipagem dinamica;
+Possibilita uma flexibilidade maior na estruturação de um codigo
+*/
+
+let qualquer = 'Legal'
+
+console.log(qualquer)
+console.log(typeof qualquer)
+
+qualquer= 3.15
+console.log(qualquer)
+console.log(typeof qualquer)
+
+//Evitar nome genéricos e siglas
+
+let valor = ''
+let numero = 1
+let pqp = false
+
